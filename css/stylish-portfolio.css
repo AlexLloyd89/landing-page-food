@@ -185,8 +185,8 @@ h6 {
 }
 
 .service-icon {
-  background-color: #fff;
-  color: #1D809F;
+  background-color: #3d3840;
+  color: white;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -345,7 +345,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #4ABDAC  !important;
 }
 
 .text-primary {
@@ -353,7 +353,8 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #F7B733 !important;
+  text-shadow: 1px 1px 1px black;
 }
 /*!
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
